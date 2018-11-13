@@ -1,0 +1,2 @@
+# TestPublicFramework
+测试自己的公开库cocoapods
